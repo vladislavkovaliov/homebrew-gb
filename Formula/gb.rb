@@ -1,8 +1,8 @@
 class Gb < Formula
   desc "Git branch helper script with interactive selection"
   homepage "https://github.com/vladislavkovaliov/gb"
-  url "https://github.com/vladislavkovaliov/gb/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "759815ab7e6c8f0232e761eb156c43ba660d0f844ddb0a9366ee6037c5b553b3"
+  url "https://github.com/vladislavkovaliov/gb/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "c477cd9be0590cd33d6e98b0e4d13670036c914ba6c777230dc556ddc760dbdc"
   license "MIT"
 
   def install
